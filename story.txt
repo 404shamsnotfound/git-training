@@ -1,5 +1,8 @@
 The company started with a single idea.
 
+Chapter 0:
+Before the company existed, a group of engineers had a vision.
+
 Chapter 1:
 The project was created.
 
