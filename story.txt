@@ -9,5 +9,7 @@ The project was created.
 Chapter 2:
 Development started with backend services and APIs.
 
+Development started with frontend interfaces.
+
 Chapter 3:
 The first release is coming soon.
