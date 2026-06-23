@@ -13,3 +13,6 @@ Development started with frontend interfaces.
 
 Chapter 3:
 The first release is coming soon.
+
+Infrastructure:
+Docker containers were introduced.
