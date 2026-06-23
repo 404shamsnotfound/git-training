@@ -11,3 +11,6 @@ Development started.
 
 Chapter 3:
 The first release is coming soon.
+
+Testing:
+Manual testing started.
