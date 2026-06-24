@@ -11,3 +11,5 @@ Development started with backend services and APIs.
 
 Chapter 3:
 The first release is coming soon.
+Security:
+Authentication was added.
