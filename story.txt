@@ -17,3 +17,6 @@ Docker containers were introduced.
 
 Testing:
 Manual testing started.
+
+Security:
+Authentication was added.
