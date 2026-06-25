@@ -17,3 +17,5 @@ Docker containers were introduced.
 
 Testing:
 Manual testing started.
+
+Fix typo
